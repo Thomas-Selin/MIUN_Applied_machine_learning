@@ -1,0 +1,5 @@
+project_code/env/**
+# Uncomment below to to ignore the train and validation images for the lab
+# lab_code/images/train/**
+# lab_code/images/validation/**
+lab_code/env/**
