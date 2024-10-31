@@ -1,4 +1,4 @@
-# Project code
+# Project: LSTM model for modeling and forecasting IT system component usage
 
 See the ../project_report.pdf for further information.
 

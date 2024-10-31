@@ -2,5 +2,7 @@ This repo contain my (Thomas Selin's) work in the course **Applied machine learn
 
 - project report
 - project code
+
+Lab: Convolutional Neural Network for image classification
 - lab report
 - lab code
